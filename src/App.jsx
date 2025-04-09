@@ -22,7 +22,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen bg-sky-200 dark:bg-blue-950 flex flex-col items-center justify-center p-4 text-gray-800 dark:text-white transition-colors duration-300">
+    <div className="min-h-screen bg-sky-200 dark:bg-blue-950 flex flex-col items-center justify-center p-4 text-gray-800 dark:text-black transition-colors duration-300">
       <h1 className="text-4xl font-bold text-center mb-6 flex items-center gap-2">
         🌤️ Weather Dashboard
       </h1>
